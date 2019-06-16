@@ -8,6 +8,12 @@
 	<groupId>com.mindlin.nautilus</groupId>
 	<artifactId>nautilus-util</artifactId>
 	<version>0.0.1-alpha</version>
+	<url>github.com/nautilusjs/nautilus-util</url>
+	
+	<organization>
+		<name>NautilusJS</name>
+		<url>github.com/nautilusjs</url>
+	</organization>
 
 	<packaging>jar</packaging>
 
